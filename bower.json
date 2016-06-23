@@ -4,13 +4,14 @@
     "nirmal bhagwani <nirmal4designing@gmail.com>"
   ],
   "description": "custom kendo",
-  "main": "kendo-custom.min.js",
+  "main": "src/kendo-custom.js",
   "keywords": [
     "custom",
     "kendo"
   ],
   "license": "cc-by-nc-nd-3.0",
   "homepage": "",
+  "version": "2015.2.624",
   "ignore": [
     "**/.*",
     "node_modules",
