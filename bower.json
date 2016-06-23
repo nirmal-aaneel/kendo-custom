@@ -1,0 +1,21 @@
+{
+  "name": "kendo-custom",
+  "authors": [
+    "nirmal bhagwani <nirmal4designing@gmail.com>"
+  ],
+  "description": "custom kendo",
+  "main": "kendo-custom.min.js",
+  "keywords": [
+    "custom",
+    "kendo"
+  ],
+  "license": "cc-by-nc-nd-3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
