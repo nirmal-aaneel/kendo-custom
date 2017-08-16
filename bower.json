@@ -1,5 +1,6 @@
 {
   "name": "kendo-custom",
+   "version": "2017",
   "authors": [
     "nirmal bhagwani <nirmal4designing@gmail.com>"
   ],
@@ -11,7 +12,6 @@
   ],
   "license": "cc-by-nc-nd-3.0",
   "homepage": "",
-  "version": "2015.2.624",
   "ignore": [
     "**/.*",
     "node_modules",
